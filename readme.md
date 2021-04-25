@@ -13,5 +13,5 @@ Package Dependencies
 
 ColdFusion Dependencies
 
-    1) Please see dbconnection.py for the connection string.
+    1) Please see dbconnection.py for the connection string. This application requires a datasource called "Congress"
     2) ColdFusion 2018+
