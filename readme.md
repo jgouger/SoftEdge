@@ -9,6 +9,7 @@ Package Dependencies
         5) Html5Lib
         6) BeautifulSoup4
         7) lxml
+        8) cryptography
 
 ColdFusion Dependencies
 
